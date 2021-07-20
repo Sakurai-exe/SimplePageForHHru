@@ -2,7 +2,6 @@ package com.example.blog.controllers;
 
 import com.example.blog.models.Post;
 import com.example.blog.repo.PostRepository;
-import javafx.geometry.Pos;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
